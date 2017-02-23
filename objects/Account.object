@@ -69,6 +69,7 @@
     <enableHistory>false</enableHistory>
     <fields>
         <fullName>AccountNumber</fullName>
+        <inlineHelpText>this is the account object change</inlineHelpText>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
