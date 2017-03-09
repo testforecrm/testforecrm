@@ -7,6 +7,11 @@
         <field>Opportunity.MyOppNewField__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Opportunity.MyPhoneNumber__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Opportunity-Opportunity %28Sales%29 Layout</layout>
     </layoutAssignments>
